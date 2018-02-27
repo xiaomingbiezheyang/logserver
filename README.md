@@ -1,0 +1,1 @@
+开机启动logserver，抓取内核和logcat消息，保存在/sdcard/qhlog/下
